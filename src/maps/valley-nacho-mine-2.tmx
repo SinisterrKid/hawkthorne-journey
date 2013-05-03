@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="187" height="137" tilewidth="24" tileheight="24">
+ <properties>
+  <property name="blue" value="249"/>
+  <property name="green" value="125"/>
+  <property name="offset" value="122"/>
+  <property name="red" value="154"/>
+ </properties>
+ <tileset firstgid="1" name="valley" tilewidth="24" tileheight="24">
+  <image source="../images/tilesets/valley.png" trans="ff00ff" width="288" height="672"/>
+ </tileset>
+ <layer name="tacos" width="187" height="137">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENwjAURdGUkBqYAtIDdcQALMYATMRU+WUUhQJiJ5Z8jnSbV1iy9JsGAAAAAAAAAAAAAAAAAAAAAAAAANLYRfuoLXyHpQ7RMTpFXXSOLgXtkEo/6hZ9omtB+z3f16lMP+k1s225P/J9ncpMb+s9s/2z/9q3d575vk5lUtxpyiCXrW/brbOWJTfpxgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWMMA5gRI8A==
+  </data>
+ </layer>
+ <layer name="front mountain" width="187" height="137">
+  <data encoding="base64" compression="zlib">
+   eJzt1DsKgDAQRVEX6Ib8bEJXbOxCUEgzMZJz4HVTXmaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAABjJkrZ2dA8RjrQtbU87O7iHCHeHc7G8x/IfR99DhKcO8x7Lfxx9D1HeOmw9iPZ14zqnFZ0zitoedc3f1bapbwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY1wUOx01h
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="187" height="137">
+  <data encoding="base64" compression="zlib">
+   eJzt3U1O20AYgGGjLnuErIF9Q9mWcpIchaP0KD5AV63U9hQ9Q8c4Iw3TIbETz/cz877Sp0CAKDJPrRmnwDAQERERERHRkn6E+fl2XqYJ97+oPjGijQumn37OM6YT7h+1nxsRkaeStcNLOqwdqLV+FNYNVtYO37MharHJ9q9s8E4tVTJeGiKNtrpeuMQ453jSbKvrhWus45289Tec+9caZ01D3trKOd4pZvH19y2ds5ahmPbr7/l18nx+J/PnOKX70jn3mEQW+l158E4Wqu08N0+kkaRzvJNWpTW35BBJpO083csS1ejctRKtIdo6bdN4J6m0PeOdpNK2jHWSStsy1kkqbct4J6m0HWOdpNJ2jHeSStsw1kkqbcN4J6m0/eKdpNK2i3WSStsu3kkrbcdYp1rtb4bhIcznMI83+o6xTjWanH8J8xTma5hnJ9YxT2vy7hzrtKQWnLfuvebxytetrdaSc6xj/b2ic6zbD+vX1ZpzrK+f3Hmr5ltz3rJ3rF9ea+v01r1LWX9szHrrzlv0LmX92aH10r/XeH8PzlvzLmn90Yn1kvFp9jdtXnfpxbu09ecT1m+H4dt9mF2Y+Ha4HW+Pvy/9Nrl/+pz4dbvktvTxteXPPTfem/NWvEtbP1VwOgSnh8n2/vj23Xw7DsfbeH9qOf14+hiXHI+S8559t+TdkvXg93B0Ot2+Nt0mfg/x7dR6+vH0MdYei9Jzxnk73i1Z1+69czrO347X33UtZV3jGsynlZ+fumbtctq6R++1jseXm/K5/VSlvenDvB5J96lPYQ1/eEjWKOl6PV377OY57LPHLO1bU9s4X2bdm3dJ6+fO69O+Mzq8T+5P/R4Nj9nHx93wdu96l31dfPx8rR/LnWN8mXVP3i1ZL/meSveeud+pcI7/djeft1/yfxfp55b2tVN7nF9l3Yt3Sevn1jAaxWvnOL/Ougfv3qyX9pvHdfp4v/KaOq8PbWu99PeI89H8m/K1jse+YH3Bej3dg6b71HH6+O38/pv1yzBcZp39p4716H2avwu/V5f2oTA1jsc16/XpNt1H5tdZcuu7eW/6OkuOAc5tWK/tXcL5pdbvZtf/vT6a702n99P9ZVjXjHGWHAOc27Fe07uk9dyThddNS3tQrOtar+Vd0vpT4dyuGc7tWq/hvVfrOLdvfWvv0tZL63bp2Iv6sb6ld2nrX5Wt8xqRP+tbee/JOudzv9a38N6TdZzbtB4fo/TYW9aDdf5/i33rNWzntW6ddYtN61K+01q2zrncnnUN4zEp66lvCes4t2M9X4tr1eJ5Hec2rGu6LtWadZzrW7dmPNaadZzrWY/vW60V61xX1LXuoVasc10R6+fS/lmNLX7mlPO5/nhI8ppjjZ/V4LUi/fGSxhpmq78zgHMb4yWv1nFuYzzl1TrObYynPFvHuf54Ssv6NddguO5iZzylaf2ScG5rPOXNOut0O+Ot3PqUVeuc022NtzxZ55xuZzzmzXr6GLWeK9OH9VrHpvQ7ttaGdTvjMS3r16b9ve59PCZlfatjqv18mPL3xUPWrcfjqv0cmP+/J97yYJ2xNx7DOnPJeAzrzJJpIawzp6alsM68N62FdebUtBTW+56ekvr/MIzN6Sms9z09hfW+p6ew3vf0FNb7np7Cet/TU1jve3oK631Oj30chjEd7edzKm0fLUzPeTxe2l68Tu95PmbadrwMzfVw7LSt4dxGHD/qJawTERERERERERERERERERERERERERERERERERERERERERER2ewf9XA8NA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2 (2)" width="187" height="137">
+  <data encoding="base64" compression="zlib">
+   eJzt3M1qE1EYBuAT3LfdWAuurNSsVFA3ItrZaFFB6EJdCNKNCN2JN5BL6aV4FbVLr0C9BL/QFpPQSTNtzvxkngc+5szppPMt3hnmJ21KAAAA3XVnkNJ21N1B051AHpHt0Tjj96MeRD08y7vss2qeR72IehqZfhfLZ7HcnZjfbbI5WKLI9uhNLF9HjZdvT+em1mEV7EXWX0W2X0aNl3tn9T5+9iHqY9MNwjWtRZ7Xr1gbruEBgJ76XW3bUa4+oG2OJ8ZVjhO67XbTDbSAvPfDsMZ9rTX07OU4TZ/L6Z/xOb3OrO9E3cuwz58Vin46z16dhql61v/E/aSccl25z+trM9csj6OeVPi8nLMsubM+m+0q+5NzumQ224tm/W/k/GTZzbBS2vQMcXztMpntR2mxrMs5ixhnKUfez+9jL3t2M0zT97yT217lXvikBUU7TWZy2ca5vezecud0u4OLsn7ROlxH1Wcdi6ryvHA4s5ydh2XIlacqx5CsU4dcearye2WdLpN1+kLW6QtZp05Nvyu60fD+6Ye6v4NbRt7JLed7ImibXO+JoG3acA0DdZB1AKBttgfpR9M9AAAAAAAAAAAAAAAAAJDXetRG001AjeQdAAAAoJ2+p3T0NepT1K1BGt2MaronqEPRdAOQyeeZ9eKCbeJcnzaj4ryftqIOa+gLlq2YGe+n6f/lGcfCQdRRfR1BHkXJeN4cdFFRMp43B11UlIznzUEXFSXjeXPQRUXJeN/9KCumKBnDqimabgAyOkzp4HxcNNcGZLc1+J/1o+bagOw2J7IOq0zW6QtZpy9kHQAAAAAAAAAAoP22ku960Q+yDgCwer74E3M65FtKv5ruAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKBO/wA3cGfD
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="187" height="137">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <objectgroup color="#00aa00" name="platform" width="187" height="137">
+  <object x="504" y="1632" width="72" height="24"/>
+  <object x="240" y="1872" width="72" height="24"/>
+  <object x="504" y="2112" width="72" height="24"/>
+  <object x="384" y="2160" width="192" height="24"/>
+  <object x="240" y="2352" width="72" height="24"/>
+  <object x="3504" y="1512" width="72" height="24"/>
+  <object x="3576" y="1584" width="48" height="24"/>
+  <object x="3432" y="1776" width="24" height="48"/>
+  <object x="3792" y="1560" width="48" height="24"/>
+  <object x="3360" y="2208">
+   <polygon points="0,0 24,-24 48,-24 48,0"/>
+  </object>
+  <object x="3384" y="2088">
+   <polygon points="0,0 24,-24 48,-24 48,0"/>
+  </object>
+  <object x="3408" y="2040">
+   <polygon points="0,0 24,-24 48,-24 48,0"/>
+  </object>
+  <object x="3432" y="1920">
+   <polygon points="0,0 24,-24 48,-24 48,0"/>
+  </object>
+  <object x="3456" y="1560" width="72" height="24"/>
+  <object x="3384" y="1440" width="48" height="24"/>
+  <object x="3456" y="1848">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 72,-72 216,-144 264,-144 264,0"/>
+  </object>
+  <object x="3240" y="1392">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 -144,-144 -264,-144 -264,-96 -168,0"/>
+  </object>
+  <object x="2712" y="1200">
+   <polygon points="0,0 0,-48 -24,-24 -48,-24 -72,0"/>
+  </object>
+  <object x="2928" y="1152">
+   <polygon points="0,0 72,0 72,-24 24,-24"/>
+  </object>
+  <object x="3072" y="1104">
+   <polygon points="0,0 0,-48 -48,-48 -24,-24 -24,0"/>
+  </object>
+  <object x="2688" y="984">
+   <polygon points="0,0 0,-48 -24,-48 -72,-96 -96,-96 -96,-24 -72,-24 -48,0"/>
+  </object>
+  <object x="2472" y="504">
+   <polygon points="24,-24 168,-24 168,-48 48,-48"/>
+  </object>
+  <object x="2664" y="408">
+   <polygon points="0,0 192,0 192,-48 96,-48 72,-24 24,-24"/>
+  </object>
+  <object x="2448" y="840">
+   <polygon points="0,0 48,0 48,-48 24,-24 0,-24"/>
+  </object>
+  <object x="3072" y="1104">
+   <polygon points="0,0 24,0 24,-120 0,-144"/>
+  </object>
+  <object x="2760" y="816">
+   <polygon points="0,0 0,48 96,48 96,24 48,24 24,0"/>
+  </object>
+  <object x="2184" y="408">
+   <polygon points="0,0 216,0 192,-24 0,-24"/>
+  </object>
+  <object x="1656" y="216" width="384" height="24"/>
+  <object x="1896" y="360" width="72" height="24"/>
+  <object x="1824" y="432" width="48" height="24"/>
+  <object x="1488" y="504" width="336" height="24"/>
+  <object x="1752" y="288" width="336" height="24"/>
+  <object x="936" y="2568">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,144 264,144 264,96 240,96 48,0"/>
+  </object>
+  <object x="2856" y="2664">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,48 240,48 240,-144 192,-144 96,-48"/>
+  </object>
+  <object x="3720" y="1704">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,48 144,48 144,-72 96,-72 48,-48"/>
+  </object>
+  <object x="1560" y="768">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,-48 -24,-48 -192,-216 -240,-240 -336,-336 -432,-240 -480,-216 -696,0"/>
+  </object>
+  <object x="576" y="912">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,72 336,72 384,-144 288,-144 144,0"/>
+  </object>
+  <object x="0" y="1008">
+   <polygon points="0,0 240,0 240,-96 192,-96 96,-48 0,-48"/>
+  </object>
+  <object x="504" y="1152" width="72" height="24"/>
+  <object x="240" y="1392" width="72" height="24"/>
+ </objectgroup>
+ <objectgroup name="nodes" width="187" height="137">
+  <object name="main" type="door" x="504" y="1560" width="72" height="72">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </object>
+  <object name="door2" type="door" x="240" y="1632" width="336" height="24"/>
+  <object type="climbable" x="3576" y="1584" width="24" height="168"/>
+  <object type="climbable" x="3504" y="1560" width="24" height="240"/>
+ </objectgroup>
+ <objectgroup name="block" width="187" height="137">
+  <object x="1200" y="2664" width="1656" height="48"/>
+  <object x="3048" y="2352" width="48" height="168"/>
+  <object x="3096" y="2352" width="168" height="48"/>
+  <object x="3240" y="2256" width="48" height="96"/>
+  <object x="3288" y="2256" width="120" height="48"/>
+  <object x="3360" y="2208" width="48" height="48"/>
+  <object x="3384" y="2088" width="48" height="96"/>
+  <object x="3408" y="2040" width="48" height="24"/>
+  <object x="3432" y="1920" width="48" height="96"/>
+  <object x="3456" y="1848" width="48" height="48"/>
+  <object x="3816" y="1608" width="600" height="24"/>
+  <object x="1200" y="2520" width="120" height="72"/>
+  <object x="1320" y="2424" width="96" height="48"/>
+  <object x="1440" y="2472" width="48" height="48"/>
+  <object x="1464" y="2568" width="96" height="48"/>
+  <object x="1536" y="2352" width="168" height="120"/>
+  <object x="1488" y="2160" width="120" height="48"/>
+  <object x="1704" y="2112" width="72" height="72"/>
+  <object x="1848" y="2472" width="48" height="48"/>
+  <object x="1920" y="2544" width="48" height="48"/>
+  <object x="1776" y="2256" width="168" height="144"/>
+  <object x="2016" y="2328" width="96" height="48"/>
+  <object x="2376" y="2544" width="72" height="48"/>
+  <object x="3096" y="2160" width="96" height="48"/>
+  <object x="1176" y="2256" width="144" height="96"/>
+  <object x="1248" y="2232" width="120" height="24"/>
+  <object x="1320" y="2256" width="96" height="72"/>
+  <object x="1728" y="2496" width="48" height="144"/>
+  <object x="1776" y="2568" width="96" height="72"/>
+  <object x="2040" y="2544" width="264" height="48"/>
+  <object x="2040" y="2520" width="240" height="24"/>
+  <object x="2064" y="2496" width="216" height="48"/>
+  <object x="2112" y="2472" width="168" height="24"/>
+  <object x="1992" y="2520" width="48" height="48"/>
+  <object x="2112" y="2424" width="144" height="48"/>
+  <object x="2136" y="2400" width="120" height="24"/>
+  <object x="2184" y="2304" width="72" height="96"/>
+  <object x="2136" y="2112" width="48" height="120"/>
+  <object x="2160" y="2232" width="48" height="24"/>
+  <object x="2184" y="2208" width="24" height="24"/>
+  <object x="1896" y="1992" width="144" height="96"/>
+  <object x="2040" y="2040" width="72" height="72"/>
+  <object x="1968" y="2088" width="72" height="120"/>
+  <object x="2040" y="2112" width="48" height="72"/>
+  <object x="2040" y="2184" width="24" height="24"/>
+  <object x="2280" y="2136" width="120" height="24"/>
+  <object x="2280" y="2160" width="144" height="96"/>
+  <object x="2544" y="2232" width="48" height="24"/>
+  <object x="2832" y="2232" width="48" height="24"/>
+  <object x="2544" y="2256" width="336" height="48"/>
+  <object x="2616" y="2544" width="96" height="96"/>
+  <object x="2712" y="2496" width="144" height="144"/>
+  <object x="2856" y="2568" width="24" height="72"/>
+  <object x="96" y="2568" width="840" height="48"/>
+  <object x="72" y="2352" width="48" height="216"/>
+  <object x="72" y="2304" width="168" height="48"/>
+  <object x="192" y="1008" width="48" height="1296"/>
+  <object x="576" y="984" width="48" height="1368"/>
+  <object x="624" y="2304" width="360" height="48"/>
+  <object x="2160" y="1248" width="816" height="48"/>
+  <object x="2568" y="1200" width="144" height="48"/>
+  <object x="2712" y="1080" width="48" height="168"/>
+  <object x="2808" y="1152" width="288" height="48"/>
+  <object x="3000" y="1104" width="96" height="48"/>
+  <object x="3024" y="960" width="48" height="96"/>
+  <object x="2832" y="1056" width="72" height="48"/>
+  <object x="2832" y="936" width="48" height="120"/>
+  <object x="2688" y="936" width="144" height="48"/>
+  <object x="2232" y="1152" width="168" height="96"/>
+  <object x="2232" y="1080" width="72" height="72"/>
+  <object x="2232" y="960" width="48" height="120"/>
+  <object x="2232" y="936" width="72" height="24"/>
+  <object x="2232" y="816" width="48" height="120"/>
+  <object x="2304" y="1008" width="48" height="24"/>
+  <object x="2352" y="816" width="48" height="288"/>
+  <object x="2328" y="1032" width="24" height="72"/>
+  <object x="2304" y="864" width="48" height="24"/>
+  <object x="2328" y="816" width="24" height="48"/>
+  <object x="2328" y="888" width="24" height="120"/>
+  <object x="2400" y="888" width="192" height="72"/>
+  <object x="2400" y="816" width="48" height="24"/>
+  <object x="2496" y="696" width="48" height="144"/>
+  <object x="2544" y="744" width="216" height="96"/>
+  <object x="2736" y="840" width="24" height="24"/>
+  <object x="2208" y="768" width="96" height="48"/>
+  <object x="2184" y="600" width="312" height="48"/>
+  <object x="2280" y="648" width="48" height="120"/>
+  <object x="2112" y="528" width="120" height="24"/>
+  <object x="2112" y="552" width="96" height="24"/>
+  <object x="2112" y="576" width="72" height="72"/>
+  <object x="2088" y="624" width="24" height="144"/>
+  <object x="2016" y="768" width="96" height="24"/>
+  <object x="1560" y="720" width="480" height="48"/>
+  <object x="528" y="912" width="48" height="24"/>
+  <object x="1248" y="312" width="24" height="168"/>
+ </objectgroup>
+</map>
