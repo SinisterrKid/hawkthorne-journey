@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="132" height="76" tilewidth="24" tileheight="24">
+ <properties>
+  <property name="blue" value="249"/>
+  <property name="green" value="125"/>
+  <property name="offset" value="60"/>
+  <property name="red" value="154"/>
+ </properties>
+ <tileset firstgid="1" name="valley" tilewidth="24" tileheight="24">
+  <image source="../images/tilesets/valley.png" trans="ff00ff" width="288" height="672"/>
+ </tileset>
+ <layer name="back mountain" width="132" height="76">
+  <properties>
+   <property name="parallax" value="0.2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1TkOwCAMBEA+mGfl6MmDQzpE4RbizEjbbGlbUAoAAAAAAACsa285ftQTO1uulrvrauKe2NblnV0dumw9sXF22UNs9n7cw1pm78c9AHzD7PfbfwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMHtIqgEk=
+  </data>
+ </layer>
+ <layer name="back tacos" width="132" height="76">
+  <properties>
+   <property name="prallax" value="0.3"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0LsNAlEMRNEXAjFQBZBDvtRHAVsRVTFIEPCR87XOkW7gCT0GAAAAAAAAACzP5utepXXjndo+ndIhHdM27Rrv1KZ0Sfd0ft1T453a80fXdBufv+y6U3v/aR6//+y4U/v3w84BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsCwPHlVUJQ==
+  </data>
+ </layer>
+ <layer name="middle tacos" width="132" height="76">
+  <properties>
+   <property name="parallax" value="0.4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0DEOglAURFFKtRZXofTaw/pYACtiVY6dIfhr8zgnuc2U03UAAAAAAAAAAAB1ndI5XQ6y89sjXVOfbmlI98I7bc80fvVKa+GdtnHTlObCO23b3z4thXfa9n6rHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D/ezN9UJQ==
+  </data>
+ </layer>
+ <layer name="middle mountains" width="132" height="76">
+  <properties>
+   <property name="parallax" value="0.5"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0jEOwkAMBMB8MM8K0IcHE6QUEYqu3dUxI7mwS+8uCwAAAAAAAAAAAMB/edzctonvjL2OeV/2/ZjnxHfG1nO+v9sv+6x3xn7/N/swls5HH7qk89GHLul89KFLOh996JLORx+6pPPRhy7pfPShSzoffeiSzkcfuqTz0Ycu6Xz0AQAAAAAAAAAAAAAAAAAAAAAAAAAAIOMDo88QuA==
+  </data>
+ </layer>
+ <layer name="taco front" width="132" height="76">
+  <properties>
+   <property name="parallax" value="0.6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0rENwkAMQNErCTVkCqAnfZiPATIRU2EkKCDIDcUh6z3pF+fSvtYAAAAAAAAAAAAAAAAAgF9tP96baCg8JzdGp+gQHaNdtC88JzdHU3SLzs/3XHhO7rGjS3Rt77usOif32tPS1vusOCf3bYeVI9f7Pv7Df+l9H/8BAAAAAAAAAAAAAAAAAAAAAAAAAACgjzsHw3R9
+  </data>
+ </layer>
+ <layer name="mountain front" width="132" height="76">
+  <properties>
+   <property name="parallax" value="0.7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt07sNgDAMBUAGZCE+S5CJCRUoIrQ2cCe5c+X3PAwAAAAAAAAAAAAAAAAAAABAJlOd+Uf79G11ljprnfKDfU7tHx23HJspH9qnr/2ju1teb/r2fZ71bvfloS86G33IJTobfcglOht9yCU6G33IJTobfcglOht9yCU6G30AAAAAAAAAAAAAAAAAAAAAALi3A8+2yZk=
+  </data>
+ </layer>
+ <layer name="Light gradient 1" width="132" height="76">
+  <data encoding="base64" compression="zlib">
+   eJzt2FFOw0AMhOEcsJejJ+AoHIBn6HFgBVGXksBuEmds7/9JFi8VOOMRhU4TAAAAAAAAAAAAAAAAAAAAAAA40tM0Pat3gN51ml4un1/L0AkUdGI8ryszoxNj+a8PBZ3Iba0Da30o6EReLX346/cEcunpw1InTlsU5nq7sPb+gRzoA2r0ATX6gNrWPjBf6v+757l25O+NOtPoUyx1IupnMuo8M0yRpRPqLDNNlk4U6iwzTJGlE63P2/raEWf22IkRqLP3OLVRPsdXZ+55RqXO3euMSp27txmdOn9Ps8fbxvFGfQMvs1fGPvS8NtMcYWsfLgf9/KOM3oejvG8cb0bqg5XyvbP0wTMPt26xpZu371HvHkn2PnjY/ZG3fWqZ+3DW+9jWfaLnrOS1Dxb27rs3qwiZRt6911n33DM3s6dvM1IfWqj7oM432r7W1PdX5xttX2vq+6vzjbavNfX91flG29ea+v7qfKPta019f3W+0fa1pr6/Ot9o+1pT31+db7R9ranvr8432r7W1PdX5xttX2vq+6uzjbizpazP1Yo+/JTxmXrQh9+yPlcL+tBG/bfEWX+X0Idl6pvRBz/U96IPfqhvpe7D3gyyUd+KPviivhV9uPsA68X7Xg==
+  </data>
+ </layer>
+ <layer name="Light Gradient 3" width="132" height="76">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEJg0AQhtEtMM0lFaSUVKGWk0MMDIOaRQKK8x787MXDHj5QbA0AAAAAAAAAAAAAAPin4egLcApDGjWNYZqobZpPTfClCbJfTVDPVhPUtNYEdS01QW2P1l63zwnA7N7a8+g7cA5T2Nb/GN/YdWiCTBNkmiDTBFlPE9Sy1gR15SZ6nl96r/SMa9IDkR6I9ECkB6Jx57gmPRDpgWjaOa5JD0R6AAAAAAAAAAAAAACA83oDBz3tgw==
+  </data>
+ </layer>
+ <layer name="Light Gradient 2" width="132" height="76">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEJwkAQQNEp0CJsKVZnAXs2KUFFJMuoREVYYd6DwARymMNnWRIBAAAAAAAAAAAAAAD82mn0Agw3p3dN1LR0syZqa5fnGJpgpQmyd5qgFk2QaYLsWRNwNUXsd6OXAPhDh9ELMFTr5q07tX8yNWiCXgtN8EgTZPcmltAEN5+cE9TwqgnqatufUIgeAAAAAAAAAAAAAAAAAAAAAPjWGRg5OJ8=
+  </data>
+ </layer>
+ <layer name="Orange sand thing + Cactus" width="132" height="76">
+  <data encoding="base64" compression="zlib">
+   eJzt2TFOwzAUBuDkHGxF0I2lTEhAJ24AXKdHy8TERMR9cNRaWFEJqqjiGH+f9CtZkrzhKX5xmgbg7z5C+pDP/fkubzXkFnpg2+/ThfMudz0AQL3inHrILh7NrHUa5tTwzdIN6ZOjmRWonfWSlPUSAAAAuA95OJLHnEWRzXPIy5G85iyKLG7a6VCXu3Y6JbvIXUCBntrfM1bK/6l1oyfmUMr/qauQ60ZP8G0Tcpu7CBazpqznfBg/WsqaspnzYQAslm8HoqEXzItE9hcYs79AynpBSj8A/B+r9vQ96stwzeqQ81cEAAAAAAAAsHxvZ8jUfSDSD6ROeb8AAAAAAAAAQKneR6FueoGUfiDSCwDL9gUmC4VT
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="132" height="76">
+  <data encoding="base64" compression="zlib">
+   eJztnLtO3EAUhmcFTbRRpFwKFCnJXtLkIsEj8ASpQyoiZfvsG+yLELYFBcpculUuHVUQPT0VSh0lZ/BOGBbbzHhux7P/J/0yskA7tr+dOR4PFgIAM35Rjikn89DPE9o3SdookAy69pvHRWYqtG+Wul0AgHawQePHGm1V1jGetJo1i5Rd6z6lq2UQo9EgGF2LlF3rIWVFy1PDz9Vr1WOBWpULKxYpu9YOPvyvVU9Qq7IhlQ+AJ/AB6Nj68InymfKF8lXAh9yw9eEb5TvlB+WngA8uqJpa1dMc6mobH/bE9XuOXQEfmiJr6hOtnuZQV9v40LTGAO0hhQ/rwmz+a8PD8QE7UviwOKdpM/8FwpLCh8UaFGMPH+AD0MnBh9DrdvodGrtKMuz4+gQ+pPCB6oJZ1yB9w/surNvxh08X9oSYml5DTtT1L1V9Q659hC8XdsmDffIhcvO9UNe/nGu/t0V5XWwnat/vqC0Njw8PDikHLewXTPhDeTP/eUR5V2wnb2n7ivI3VcMCwc0Duf5uo9gmzbwt4pY2Howp74vtRO3rdqr/PjY+nodw8UBhOlfFPSnm0lyfh3wQfDxQmN6Lck/b5k6kC4vPJjnUB/AhPiYuNPXAdfyHD3G5yQXX/sB1/Dfps9qQNvhwkwsfhZi6jgu5fL9z98FkjPBxDPDh8lxyXcdhWjvCB3+hvpblOg5TF6p8sK0Hchn/fYbL2GHjQlW7hxZ/j/D1wdYFmWFJLWn6bBpxf24fiiYuVPlAtdBsLdPI44v5WSlo6gKXfg34w8UF+JAGeS+66rC2b7Vk345wdwE+xOWAcijc7keHnYvaJNh9Xtn/41Vlv+ExLDvKg6nw8z0cCvfr7iPKHU5zLZwp8yAnHzDGmKE8qOu/4UP+1PUH8GF5sPEgZx9MnnPkXIM28SBnH0zalWMN6uLBsvvg4/i54MMD+NAOH+T8XtU7Snx60OR8yP8RG9HHq8AH/+jvq9HnDctyW4Q7h6aMhdgezZODDzbzoK4xqVX0WjjFep5lHy+4nevUbYcPvM516rZz8sHX2p+qdVQ0NsxSn+vxvPYaV7yPAD5cJjTkRC/1uZZ1l6zBqtoIH+L5QP2HrIGdQ+ds2iQDg3eUwId4PvhiJ+AaxMWxju4xtuFDvuj1g0pdPdGFD2w4ozzsFDnz9M5AvX5Q8zh19UQKH8banOOWxXu44EN4UvigHK3ztIzcfTDpz0OD8YIPen9u+12xoc45+LB81NUQ8AHowIe0PGHyzt+BuJj7mk5FPBfggzl3yZN7lPuUBxGcid0vwAc7HpEDjztF/9EL7IPsG1K9ywQ+XIXqul7Z/mfkwHPKC8rLwD6k6hvgw3XIh9PU7ylO+Z4jy/WTvdE88nuUow8S38fVpjRYP3kqQ06c5ujDkbh4Lr7ZZRpuPujk6sNR6kZYcMfzGh/4cJW2+SCBD+Foow8++wj4cJU2+iCBD0AHPgCdHH34B3wFKco=
+  </data>
+ </layer>
+ <objectgroup color="#00007f" name="block" width="132" height="76">
+  <object x="0" y="144" width="288" height="48"/>
+  <object x="240" y="192" width="48" height="96"/>
+  <object x="240" y="288" width="192" height="48"/>
+  <object x="384" y="120" width="120" height="48"/>
+  <object x="384" y="168" width="48" height="120"/>
+  <object x="456" y="168" width="48" height="336"/>
+  <object x="696" y="360" width="264" height="120"/>
+  <object x="480" y="672" width="384" height="96"/>
+  <object x="864" y="576" width="1224" height="168"/>
+  <object x="2040" y="744" width="120" height="96"/>
+  <object x="48" y="720" width="48" height="216"/>
+  <object x="360" y="984" width="48" height="288"/>
+  <object x="432" y="1104" width="48" height="168"/>
+  <object x="672" y="1104" width="48" height="120"/>
+  <object x="720" y="1176" width="648" height="48"/>
+  <object x="1320" y="1224" width="48" height="96"/>
+  <object x="576" y="1272" width="744" height="48"/>
+  <object x="792" y="1608" width="792" height="72"/>
+  <object x="1584" y="1560" width="48" height="120"/>
+  <object x="1608" y="1512" width="120" height="48"/>
+  <object x="1656" y="1320" width="72" height="192"/>
+  <object x="1560" y="1176" width="96" height="168"/>
+  <object x="2304" y="960" width="48" height="864"/>
+  <object x="2352" y="1632" width="336" height="24"/>
+  <object x="2688" y="960" width="48" height="864"/>
+  <object x="480" y="1224" width="120" height="48"/>
+  <object x="0" y="1224" width="360" height="48"/>
+  <object x="0" y="1800" width="792" height="24"/>
+  <object x="792" y="1680" width="24" height="144"/>
+  <object x="2688" y="912" width="144" height="48"/>
+  <object x="2784" y="672" width="48" height="240"/>
+ </objectgroup>
+ <objectgroup color="#00aa00" name="platform" width="132" height="76">
+  <object type="platform" x="1488" y="1460" width="70" height="6"/>
+  <object type="platform" x="1368" y="1363" width="168" height="10"/>
+  <object type="platform" x="1367" y="1265" width="73" height="12"/>
+  <object type="platform" x="193" y="769" width="672" height="72"/>
+  <object x="480" y="504">
+   <polygon points="0,0 -24,24 -360,192 -384,216 -480,216 -480,24 0,-72"/>
+  </object>
+  <object x="2353" y="1388" width="75" height="8"/>
+  <object x="2612" y="1149" width="77" height="9"/>
+  <object x="2613" y="1629" width="75" height="9"/>
+  <object x="720" y="1104">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 -288,0 -288,-48 -72,-48 -48,-24 0,-24"/>
+  </object>
+  <object x="72" y="936">
+   <properties>
+    <property name="drop" value="false"/>
+   </properties>
+   <polygon points="0,0 0,48 336,48 336,24 288,24 264,0"/>
+  </object>
+  <object type="platform" x="864" y="1440" width="95" height="6"/>
+  <object x="1608" y="1176">
+   <polygon points="0,0 0,48 696,48 696,-216 744,-216 744,-264 696,-264 216,-24 72,-24 24,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="nodes" width="132" height="76">
+  <object name="main" type="door" x="25" y="89" width="24" height="48"/>
+  <object type="door" x="2352" y="1608" width="264" height="24">
+   <properties>
+    <property name="instant" value="true"/>
+    <property name="level" value="7"/>
+    <property name="to" value="door2"/>
+   </properties>
+  </object>
+  <object name="doorto7" type="door" x="2616" y="1560" width="72" height="72">
+   <properties>
+    <property name="instant" value="true"/>
+    <property name="level" value="valley-nacho-mine-2"/>
+    <property name="to" value="door2"/>
+   </properties>
+  </object>
+  <object type="liquid" x="408" y="1176" width="24" height="648">
+   <properties>
+    <property name="drag" value="true"/>
+    <property name="drown" value="false"/>
+    <property name="foreground" value="true"/>
+    <property name="mask" value="true"/>
+    <property name="sprite" value="images/quicksand.png"/>
+   </properties>
+  </object>
+  <object type="liquid" x="0" y="1272" width="408" height="552">
+   <properties>
+    <property name="drag" value="true"/>
+    <property name="drown" value="false"/>
+    <property name="foreground" value="true"/>
+    <property name="mask" value="true"/>
+    <property name="sprite" value="images/quicksand.png"/>
+   </properties>
+  </object>
+  <object type="liquid" x="288" y="240" width="96" height="48">
+   <properties>
+    <property name="drag" value="true"/>
+    <property name="drown" value="true"/>
+    <property name="foreground" value="true"/>
+    <property name="mask" value="true"/>
+    <property name="sprite" value="images/quicksand.png"/>
+   </properties>
+  </object>
+  <object type="liquid" x="576" y="1320" width="216" height="504">
+   <properties>
+    <property name="drag" value="true"/>
+    <property name="drown" value="false"/>
+    <property name="foreground" value="true"/>
+    <property name="mask" value="true"/>
+    <property name="sprite" value="images/quicksand.png"/>
+   </properties>
+  </object>
+  <object type="liquid" x="432" y="1272" width="144" height="552">
+   <properties>
+    <property name="drag" value="true"/>
+    <property name="drown" value="false"/>
+    <property name="foreground" value="true"/>
+    <property name="mask" value="true"/>
+    <property name="sprite" value="images/quicksand.png"/>
+   </properties>
+  </object>
+  <object type="info" x="888" y="1368" width="48" height="72">
+   <properties>
+    <property name="info" value="the hatch to the nacho mine is open"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
